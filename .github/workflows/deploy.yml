@@ -1,4 +1,4 @@
-name: Upload Objects
+name: Deploy to S3
 
 on:
   push:
